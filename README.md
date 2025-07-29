@@ -1,4 +1,4 @@
-# 🌊 FlowLane
+# FlowLane
 
 **FlowLane** is a sleek and responsive Kanban-style task management application built with **Vite** and **TypeScript**. It helps you organize your tasks into projects and visually manage them using drag-and-drop across three standard columns: **To Do**, **In Progress**, and **Done**.
 
@@ -8,7 +8,7 @@
 
 Checkout the live demo of CartLoop:
 
-👉 [FlowLane](https://flowlane.vercel.app)
+  [FlowLane](https://flowlane.vercel.app)
 
 ---
 
@@ -41,53 +41,53 @@ Checkout the live demo of CartLoop:
 
 
 
-## ✨ Features
+## Features
 
-### 🔷 1. Project Sidebar
+### 1. Project Sidebar
 
 - Left sidebar listing all projects
 - Ability to create, rename, and delete projects
 - Select a project to view its board
 
-### 🗂️ 2. Board Layout
+### 2. Board Layout
 
 - 3 fixed columns per project: To Do, In Progress, Done
 - Responsive layout
 
-### 📝 3. Task Card
+###  3. Task Card
 
 - Title (required)
 - Optional description
 - Created date
 - Edit and Delete options
 
-### ➕ 4. Add/Edit Task
+###  4. Add/Edit Task
 
 - Modal or form-based interface
 - Title validation required
 - Select initial column when creating
 
-### 📦 5. Drag and Drop
+###  5. Drag and Drop
 
 - Move tasks across columns
 - Uses `@dnd-kit/core` for smooth drag-and-drop
 
-### 💾 6. Persistence
+###  6. Persistence
 
 - All data (projects + tasks) are saved in `localStorage`
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
-- 💙 React + TypeScript
-- 💨 Tailwind CSS
-- 🧠 Zustand (state management)
-- 🧩 @dnd-kit/core (drag-and-drop)
+-  React + TypeScript
+-  Tailwind CSS
+-  Zustand (state management)
+-  @dnd-kit/core (drag-and-drop)
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
