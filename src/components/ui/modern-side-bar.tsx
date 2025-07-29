@@ -361,7 +361,7 @@ export function ModernSidebar({
 
       {isAddDialogOpen && (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50">
-          <div className="bg-white rounded-lg shadow-lg w-full max-w-sm">
+          <div className="bg-white rounded-lg shadow-lg w-full max-w-sm overflow-hidden">
             <div className="p-4 border-b border-gray-200">
               <h2 className="text-lg font-semibold">Create a new project</h2>
             </div>
