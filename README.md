@@ -84,3 +84,33 @@ npm run dev
 ```bash
 http://localhost:5173
 ```
+
+## Dashboard With Tasks 
+<img width="1920" height="1200" alt="Screenshot 2025-07-29 152934" src="https://github.com/user-attachments/assets/ffdc7ff8-206d-4811-af0a-623aad942291" />
+
+
+## Create New Project
+<img width="1920" height="1200" alt="Screenshot 2025-07-29 152944" src="https://github.com/user-attachments/assets/8b77fe54-edf7-4b79-8ede-9318836ce201" />
+
+
+## Add New Task
+<img width="1920" height="1200" alt="Screenshot 2025-07-29 152958" src="https://github.com/user-attachments/assets/f101b39a-de27-448a-b127-fedcd791837b" />
+
+
+
+## Edit and Delete Task
+<img width="1920" height="1200" alt="Screenshot 2025-07-29 153036" src="https://github.com/user-attachments/assets/1639e464-2f48-42e3-8e03-698f4f9b8d82" />
+
+
+## Clear All Task in Particular Column
+
+<img width="1920" height="1200" alt="Screenshot 2025-07-29 153008" src="https://github.com/user-attachments/assets/c98d64b7-492d-4407-aed6-b4d80401590b" />
+
+## Filters 
+
+<img width="1920" height="1200" alt="Screenshot 2025-07-29 153025" src="https://github.com/user-attachments/assets/520687a2-b633-42bd-8bd1-d708bcec41ae" />
+
+
+
+
+
