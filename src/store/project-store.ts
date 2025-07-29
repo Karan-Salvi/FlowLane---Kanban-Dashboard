@@ -1,6 +1,6 @@
 import { create } from "zustand";
 import { persist, createJSONStorage } from "zustand/middleware";
-import { arrayMove } from "@dnd-kit/sortable";
+
 import type { Project, Task, ColumnId, AppState } from "../lib/types";
 import { immer } from "zustand/middleware/immer";
 
