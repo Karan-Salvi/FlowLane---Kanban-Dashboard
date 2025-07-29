@@ -1,9 +1,10 @@
 import "./App.css";
+import FlowLaneKanban from "./components/project-flow-kanban";
 
 function App() {
   return (
     <>
-      <h1>Kanban Dashboard </h1>
+      <FlowLaneKanban />
     </>
   );
 }
